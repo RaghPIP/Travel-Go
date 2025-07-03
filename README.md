@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Travel&Go - Travel Planning Website
 
 Travel&Go is a modern travel planning website built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It helps users plan their trips with features like destination search, trip planning, AI-based itinerary suggestions, and more.
